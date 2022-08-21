@@ -5,4 +5,4 @@ Starter template for TypeScript library
 
 ## License
 
-[MIT](./LICENSE) License © 2022 [Joruno](https://github.com/Joruno-w)
+[MIT](./LICENSE) License © 2022 [Joruno-w](https://github.com/Joruno-w)
