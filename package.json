@@ -1,7 +1,7 @@
 {
-  "name": "starter-ts",
+  "name": "@joruno/starter-ts",
   "type": "module",
-  "version": "0.0.0",
+  "version": "2.0.0",
   "packageManager": "pnpm@7.9.0",
   "description": "",
   "author": "Joruno <1710642275@qq.com>",
