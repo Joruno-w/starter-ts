@@ -1,7 +1,7 @@
 {
   "name": "@joruno/starter-ts",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "packageManager": "pnpm@7.9.0",
   "description": "",
   "author": "Joruno <1710642275@qq.com>",
@@ -40,7 +40,7 @@
     "dev": "unbuild --stub",
     "lint": "eslint .",
     "prepublishOnly": "nr build",
-    "release": "bumpp && npm publish",
+    "release": "bumpp && npm publish --access=public",
     "start": "esno src/index.ts",
     "test": "vitest",
     "pub": "npm publish --access=public"
