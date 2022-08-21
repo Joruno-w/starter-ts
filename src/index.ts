@@ -1,2 +1,3 @@
-export const one = 1
-export const two = 2
+const add = (a: number, b: number): number => a + b;
+
+export {add}
