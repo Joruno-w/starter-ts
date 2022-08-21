@@ -1,6 +1,7 @@
-# pkg-name
+# starter-ts
+Starter template for TypeScript library
 
-[![NPM version](https://img.shields.io/npm/v/pkg-name?color=a1b858&label=)](https://www.npmjs.com/package/pkg-name)
+[![NPM version](https://img.shields.io/badge/npm-v1.0.0-red)](https://www.npmjs.com/package/pkg-name)
 
 ## License
 
