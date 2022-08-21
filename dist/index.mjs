@@ -1,3 +1,3 @@
-const add = (a, b) => a + b;
+const a = 1;
 
-export { add };
+export { a };

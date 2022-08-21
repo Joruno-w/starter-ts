@@ -2,6 +2,6 @@
 
 Object.defineProperty(exports, '__esModule', { value: true });
 
-const add = (a, b) => a + b;
+const a = 1;
 
-exports.add = add;
+exports.a = a;

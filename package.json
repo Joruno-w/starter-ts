@@ -1,7 +1,7 @@
 {
   "name": "@joruno/starter-ts",
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "packageManager": "pnpm@7.9.0",
   "description": "",
   "author": "Joruno <1710642275@qq.com>",
@@ -40,15 +40,12 @@
     "dev": "unbuild --stub",
     "lint": "eslint .",
     "prepublishOnly": "nr build",
-    "release": "bumpp && npm publish --access=public",
+    "release": "bumpp && npm publish",
     "start": "esno src/index.ts",
     "test": "vitest",
-    "pub": "npm publish --access=public"
+    "pub": "npm publish"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.26.1",
-    "@antfu/ni": "^0.17.2",
-    "@antfu/utils": "^0.5.2",
     "@types/node": "^18.7.5",
     "bumpp": "^8.2.1",
     "eslint": "^8.22.0",

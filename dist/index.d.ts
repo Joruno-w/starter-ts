@@ -1,3 +1,3 @@
-declare const add: (a: number, b: number) => number;
+declare const a = 1;
 
-export { add };
+export { a };
