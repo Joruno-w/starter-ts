@@ -42,7 +42,8 @@
     "prepublishOnly": "nr build",
     "release": "bumpp && npm publish",
     "start": "esno src/index.ts",
-    "test": "vitest"
+    "test": "vitest",
+    "pub": "npm publist --access=public"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.26.1",
