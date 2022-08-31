@@ -1,10 +1,10 @@
 {
   "name": "@joruno/starter-ts",
   "type": "module",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "packageManager": "pnpm@7.9.0",
   "description": "",
-  "author": "Joruno <1710642275@qq.com>",
+  "author": "Joruno",
   "license": "MIT",
   "homepage": "https://github.com/Joruno-w/starter-ts#readme",
   "repository": {
@@ -54,6 +54,7 @@
     "rimraf": "^3.0.2",
     "typescript": "^4.7.4",
     "unbuild": "^0.8.8",
+    "urpm": "^0.0.4",
     "vite": "^3.0.7",
     "vitest": "^0.22.0"
   }
