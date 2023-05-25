@@ -1,7 +1,7 @@
 {
   "name": "pkg-starter",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packageManager": "pnpm@8.1.1",
   "description": "Starter template for TypeScript library",
   "author": "Joruno-w <1710642275@qq.com>",
@@ -13,7 +13,11 @@
     "url": "git+https://github.com/Joruno-w/pkg-name.git"
   },
   "bugs": "https://github.com/Joruno-w/pkg-name/issues",
-  "keywords": ["pkg", "starter", "template"],
+  "keywords": [
+    "pkg",
+    "starter",
+    "template"
+  ],
   "sideEffects": false,
   "exports": {
     ".": {
